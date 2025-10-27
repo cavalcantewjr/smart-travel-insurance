@@ -1,6 +1,6 @@
 # Smart Travel Insurance
 
-Um sistema completo de gestão de seguros de viagem desenvolvido com **Clean Architecture** e princípios **SOLID**, utilizando Next.js 14 e TypeScript.
+Um sistema base de gestão de seguros de viagem desenvolvido com **Clean Architecture** e princípios **SOLID**, utilizando Next.js 14 e TypeScript.
 
 ## 🚀 Tecnologias Utilizadas
 
