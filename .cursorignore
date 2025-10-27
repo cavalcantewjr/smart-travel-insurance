@@ -1,0 +1,10 @@
+# Arquivos que o Cursor deve ignorar
+node_modules/
+.next/
+.git/
+*.log
+.DS_Store
+Thumbs.db
+
+# Manter .env visível (remover da linha abaixo se quiser vê-lo)
+# .env
